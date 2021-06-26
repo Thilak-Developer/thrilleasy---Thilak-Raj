@@ -273,13 +273,17 @@ a {
   .column2 {
     left: 10px;
     /* -ms-flex: 100%; */
-    flex: 95%;
+    flex: 75%;
    max-width: 100%; 
    padding-left: 13px;
   }
   .column2 button{
    display: none;
     
+}
+.texxtt a{
+  margin-right: 0 !important;
+  
 }
 .qqqq{
   display: none;
